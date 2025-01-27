@@ -1,4 +1,4 @@
-#Soul-like game
+# Soul-like game
 
 <h3>What I've done in this project</h3>
 <ol>
