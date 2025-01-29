@@ -12,16 +12,16 @@
 <h3>What I've done in this project</h3>
 <ol>
   <li>Everything was done using blueprints</li>
-  <li>Implementing and exporting multiple animations and characters model</li>
-  <li>Creating ennemies using the AI controller, the blackboard and the behaviour tree</li>
-  <li>Making custom task for the ennemies blackboard</li>
-  <li>Designing a base class for the interactable to show a prompt when pointing at it</li>
-  <li>Transitioning between scene smoothly</li>
+  <li>Implemented and exported multiple animations and characters models</li>
+  <li>Created ennemies using the AI controller, the blackboard and the behaviour tree</li>
+  <li>Made custom tasks for the ennemies blackboard</li>
+  <li>Designed a base class for the interactable objects to show a prompt when pointing at it</li>
+  <li>Transitioned smoothly between scene </li>
 
 </ol>
 
 <h3>What I've learned during this project</h3>
 <ol>
- <li>I've learned a lot about the blueprint system and how to convert my programming skills to blueprint</li>
-<li>How usefull the official documentation for unreal is and that I should use it more instead of blindly searching on the internet</li>
+ <li>I've learned a lot about the blueprint system and how to transfer my programming skills to blueprint</li>
+<li>How useful the official documentation for unreal is and that I should use it more instead of blindly searching on the internet</li>
 </ol>
