@@ -16,6 +16,7 @@
   <li>Creating ennemies using the AI controller, the blackboard and the behaviour tree</li>
   <li>Making custom task for the ennemies blackboard</li>
   <li>Designing a base class for the interactable to show a prompt when pointing at it</li>
+  <li>Transitioning between scene smoothly</li>
 
 </ol>
 
