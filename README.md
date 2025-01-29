@@ -22,5 +22,5 @@
 <h3>What I've learned during this project</h3>
 <ol>
  <li>I've learned a lot about the blueprint system and how to convert my programming skills to blueprint</li>
-<li> </li>
+<li>How usefull the official documentation for unreal is and that I should use it more instead of blindly searching on the internet</li>
 </ol>
